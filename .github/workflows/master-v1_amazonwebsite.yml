@@ -53,4 +53,4 @@ jobs:
           app-name: 'amazonwebsite'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBD77D3BB71443229C9092D32A0BBB59 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8C0CC8A1D791439B8656B64367F4D861 }}
